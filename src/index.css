@@ -24,7 +24,7 @@
 
 footer{ 
   text-align:center;
-  font-size: 10px;
+  font-size: 12px;
   color: black;
   font-family: serif;
   margin-top: 40vh;
@@ -57,7 +57,7 @@ textarea{
   outline: none;
   border: none;
   margin-top: 10px;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .add{
@@ -98,7 +98,7 @@ p{
  box-shadow: 0px 2px 4px 2px rgb(209, 204, 204);
  margin-right: -90%;
  position:relative;
- font-size: 10px;
+ font-size: 15px;
 }
 .delete:hover,.add:hover{
   background-color: orange;
